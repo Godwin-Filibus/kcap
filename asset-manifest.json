@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/kcap/static/css/main.34c38f85.chunk.css",
-    "main.js": "/kcap/static/js/main.5318be1c.chunk.js",
-    "main.js.map": "/kcap/static/js/main.5318be1c.chunk.js.map",
+    "main.css": "/kcap/static/css/main.797b6cc5.chunk.css",
+    "main.js": "/kcap/static/js/main.5196feb6.chunk.js",
+    "main.js.map": "/kcap/static/js/main.5196feb6.chunk.js.map",
     "runtime-main.js": "/kcap/static/js/runtime-main.fcb8b122.js",
     "runtime-main.js.map": "/kcap/static/js/runtime-main.fcb8b122.js.map",
-    "static/js/2.ba7a8665.chunk.js": "/kcap/static/js/2.ba7a8665.chunk.js",
-    "static/js/2.ba7a8665.chunk.js.map": "/kcap/static/js/2.ba7a8665.chunk.js.map",
+    "static/js/2.b5b2fab9.chunk.js": "/kcap/static/js/2.b5b2fab9.chunk.js",
+    "static/js/2.b5b2fab9.chunk.js.map": "/kcap/static/js/2.b5b2fab9.chunk.js.map",
     "index.html": "/kcap/index.html",
-    "precache-manifest.305af7db9b24b8495e1d9d6e5ec56006.js": "/kcap/precache-manifest.305af7db9b24b8495e1d9d6e5ec56006.js",
+    "precache-manifest.91ad8965de0f46ce38f18f16c0a3890b.js": "/kcap/precache-manifest.91ad8965de0f46ce38f18f16c0a3890b.js",
     "service-worker.js": "/kcap/service-worker.js",
-    "static/css/main.34c38f85.chunk.css.map": "/kcap/static/css/main.34c38f85.chunk.css.map",
-    "static/js/2.ba7a8665.chunk.js.LICENSE.txt": "/kcap/static/js/2.ba7a8665.chunk.js.LICENSE.txt",
-    "static/media/girrafe.jpg": "/kcap/static/media/girrafe.1d34f689.jpg"
+    "static/css/main.797b6cc5.chunk.css.map": "/kcap/static/css/main.797b6cc5.chunk.css.map",
+    "static/js/2.b5b2fab9.chunk.js.LICENSE.txt": "/kcap/static/js/2.b5b2fab9.chunk.js.LICENSE.txt",
+    "static/media/chinese.jpg": "/kcap/static/media/chinese.44059927.jpg",
+    "static/media/p1.jpg": "/kcap/static/media/p1.697c8dcd.jpg",
+    "static/media/p11.jpg": "/kcap/static/media/p11.fef22337.jpg",
+    "static/media/p111.jpg": "/kcap/static/media/p111.b4f8e1af.jpg",
+    "static/media/p2.jpg": "/kcap/static/media/p2.408a2ba0.jpg",
+    "static/media/p22.jpg": "/kcap/static/media/p22.8cc617ee.jpg",
+    "static/media/p222.jpg": "/kcap/static/media/p222.758ff091.jpg",
+    "static/media/p33.jpg": "/kcap/static/media/p33.81ec1b85.jpg",
+    "static/media/p333.jpg": "/kcap/static/media/p333.1bcacfc6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fcb8b122.js",
-    "static/js/2.ba7a8665.chunk.js",
-    "static/css/main.34c38f85.chunk.css",
-    "static/js/main.5318be1c.chunk.js"
+    "static/js/2.b5b2fab9.chunk.js",
+    "static/css/main.797b6cc5.chunk.css",
+    "static/js/main.5196feb6.chunk.js"
   ]
 }
